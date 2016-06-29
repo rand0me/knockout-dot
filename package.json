@@ -1,6 +1,6 @@
 {
   "name": "knockout-dot",
-  "version": "0.2.2-0",
+  "version": "1.0.0",
   "description": "doT.js template engine integration for knockout.js",
   "homepage": "https://github.com/rand0me/knockout-dot",
   "author": {
