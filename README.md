@@ -1,4 +1,7 @@
 # knockout-dot [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/knockout-dot.svg)](https://greenkeeper.io/)
+
 > doT.js integration with knockout.js
 
 ## Installation
